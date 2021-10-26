@@ -8,3 +8,4 @@ git reset filename (")
 git commit -m "message" (to move to local repo)
 git log ( to check all the commits to local repo)
 git log --oneline
+git logs
